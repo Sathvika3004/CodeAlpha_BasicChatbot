@@ -31,5 +31,5 @@ python chatbot.py
 ## 📷 Project Type
 Console-based Python chatbot
 
-## 👩‍💻 Author
+## 👩‍💻 Developer
 Sathwika
